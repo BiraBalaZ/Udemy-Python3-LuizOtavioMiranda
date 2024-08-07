@@ -1,0 +1,21 @@
+{
+    "nome": "Erick",
+    "sobrenome": "Monteiro dos Anjos",
+    "enderecos": [
+        {
+            "rua": "R. Moreira e Costa",
+            "numero": 21
+        },
+        {
+            "rua": "R. Professor Arnaldo João Semeraro",
+            "numero": 790
+        }
+    ],
+    "altura": 1.6,
+    "numeros_preferidos": [
+        11,
+        111
+    ],
+    "dev": true,
+    "nada": null
+}
