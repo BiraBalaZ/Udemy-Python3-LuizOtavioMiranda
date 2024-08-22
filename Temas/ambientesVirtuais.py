@@ -19,7 +19,7 @@
 # Mostrando todas as bibliotecas instaladas
 # > pip freeze
 #
-# Para mandar as bibliotecas neceesárias para um arquivo
+# Para mandar as bibliotecas necessárias para um arquivo
 # > pip freeze > requirements.txt
 #
 # Para instalar as bibliotecas necessárias
